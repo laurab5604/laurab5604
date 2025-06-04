@@ -2,7 +2,7 @@
 <h3 align="center">Apasionada por la tecnología, la robótica y el desarrollo de software</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/UqZqFu1qFJgk8/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" />
 </div>
 
 ---
