@@ -32,9 +32,9 @@
 
 ### 🚀 Proyectos destacados
   
-- [Juego de Nave espacial]((https://github.com/laurab5604/Nave_espacial))  
+- [Juego de Nave espacial](https://github.com/laurab5604/Nave_espacial)  
   Diseño e implementación de una red virtual con máquinas virtuales y contenedores para simulación y monitoreo.
-
+  
 ---
 
 ### 🛠️ Herramientas y Software favoritos
