@@ -55,3 +55,71 @@
 
 🌷 *Gracias por visitar mi perfil, ¡sigue tus sueños y nunca dejes de aprender!* 💫
 
+---
+
+<h2 align="center">🎮 Juego: Adivina el Número</h2>
+
+<p align="center">¡Intenta adivinar el número entre 1 y 20! Tienes 5 intentos.</p>
+
+<div align="center">
+  <input type="number" id="guessInput" placeholder="Escribe un número" style="padding:5px; font-size:16px;" />
+  <button onclick="checkGuess()" style="padding:5px 10px; font-size:16px; cursor:pointer;">Probar</button>
+</div>
+
+<p align="center" id="resultMessage" style="font-weight:bold; margin-top:10px;"></p>
+
+<script>
+  let numeroSecreto = Math.floor(Math.random() * 20) + 1;
+  let intentos = 5;
+
+  function checkGuess() {
+    let guess = parseInt(document.getElementById('guessInput').value);
+    let resultMessage = document.getElementById('resultMessage');
+
+    if (!guess || guess < 1 || guess > 20) {
+      resultMessage.textContent = "Por favor, ingresa un número entre 1 y 20.";
+      return;
+    }
+
+    intentos--;
+
+    if (guess === numeroSecreto) {
+      resultMessage.textContent = `🎉 ¡Felicidades! Adivinaste el número secreto (${numeroSecreto}).`;
+      resetGame();
+    } else if (intentos > 0) {
+      resultMessage.textContent = `❌ Incorrecto. Te quedan ${intentos} intento(s). Intenta un número ${guess < numeroSecreto ? "mayor" : "menor"}.`;
+    } else {
+      resultMessage.textContent = `😢 Se acabaron los intentos. El número era ${numeroSecreto}. ¡Intenta de nuevo!`;
+      resetGame();
+    }
+  }
+
+  function resetGame() {
+    numeroSecreto = Math.floor(Math.random() * 20) + 1;
+    intentos = 5;
+    document.getElementById('guessInput').value = "";
+  }
+</script>
+
+  <a href="mailto:laurab5604@example.com"><img src="https://img.shields.io/badge/email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/laurab5604"><img src="https://img.shields.io/badge/GitHub-daa6d4?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Stats y actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laurab5604&show_icons=true&theme=pink" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurab5604&layout=compact&theme=pink" height="165px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurab5604&theme=pink" height="150px"/>
+</p>
+
+---
+
+🌷 *Gracias por visitar mi perfil, ¡sigue tus sueños y nunca dejes de aprender!* 💫
+
