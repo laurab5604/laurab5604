@@ -57,98 +57,35 @@
 
 ---
 
-## 🎮 Juego didáctico: Elige tu aventura tecnológica
+## 🐍 Juego de la Culebrita - Lenguajes de programación
 
-**¿Quieres jugar? Elige una opción para comenzar:**
+¡La culebrita quiere atrapar los lenguajes que usas!  
+Cada 🐍 es parte de la culebra, y debe pasar por todos los lenguajes sin chocar.
 
-- [Aprender sobre Robótica 🤖](#robótica-🤖)
-- [Explorar Redes y Sistemas 🖧](#redes-y-sistemas-🖧)
-- [Descubrir Lenguajes de Programación 💻](#lenguajes-de-programación-💻)
-
----
-
-### Robótica 🤖
-
-¡Genial! La robótica combina hardware y software.
-
-¿Qué te gustaría hacer?
-
-- [Programar un robot](#programar-un-robot)  
-- [Investigar sensores](#investigar-sensores)
+| 🐍 | 🟩 | 🟩 | 🟩 | 🟩 |  
+|---|---|---|---|---|  
+| 🟩 | 🟩 | ☕ Java | 🟩 |  
+| 🟩 | 🐍 | 🐍 | 🐍 | 🟩 |  
+| 🟩 | 🟩 | 🐍 | 🐍 | 🐍 |  
+| 🐍 Python | 🐍 | C++ | 🟩 | STM32 |
 
 ---
 
-### Programar un robot
+### ¿Cómo jugar?
 
-¡Perfecto! Puedes usar Python o C++ para controlar robots.
+Imagina que la culebra 🐍 empieza en Python y se mueve para "comer" todos los lenguajes que hay en la tabla. La culebra va creciendo cada vez que pasa por un lenguaje.
 
-- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
-
----
-
-### Investigar sensores
-
-Los sensores capturan información del entorno. ¡Son esenciales para la robótica!
-
-- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
+¡Sigue el recorrido y conoce tus tecnologías favoritas!
 
 ---
 
-### Redes y Sistemas 🖧
+### Tecnologías en el juego:
 
-Redes permiten que dispositivos se comuniquen.
-
-¿Qué tema quieres explorar?
-
-- [Configurar una red híbrida](#configurar-una-red-híbrida)  
-- [Monitoreo con Grafana y Zabbix](#monitoreo)
+- 🐍 Python  
+- ☕ Java  
+- 🐍 C++  
+- STM32  
 
 ---
 
-### Configurar una red híbrida
-
-Puedes usar QEMU y Docker para crear entornos de prueba.
-
-- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
-
----
-
-### Monitoreo
-
-Grafana y Zabbix son excelentes para monitorear redes y sistemas.
-
-- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
-
----
-
-### Lenguajes de Programación 💻
-
-¿Quieres saber más sobre?
-
-- [Java](#java)  
-- [Python](#python)  
-- [C++](#c++)
-
----
-
-### Java
-
-Java es muy usado en aplicaciones grandes y Android.
-
-- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
-
----
-
-### Python
-
-Python es fácil de aprender y tiene muchas librerías.
-
-- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
-
----
-
-### C++
-
-C++ es poderoso para sistemas embebidos y alto rendimiento.
-
-- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
+**¡Diviértete programando y aprendiendo!** 🐍💻
