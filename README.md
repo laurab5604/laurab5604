@@ -1,117 +1,154 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <title>Perfil Laura + Juego</title>
-  <style>
-    body { font-family: Arial, sans-serif; background: #fff0f6; color: #333; max-width: 700px; margin: 20px auto; padding: 20px; }
-    h1, h3, h2 { text-align: center; }
-    p, ul { font-size: 1.1rem; }
-    .center { text-align: center; }
-    button { padding: 8px 15px; font-size: 16px; cursor: pointer; background: #ff69b4; color: white; border: none; border-radius: 5px;}
-    input { font-size: 16px; padding: 6px; width: 150px; }
-  </style>
-</head>
-<body>
+<h1 align="center">Hola 👋, soy Laura 💖</h1>
+<h3 align="center">Apasionada por la tecnología, la robótica y el desarrollo de software</h3>
 
-<h1>Hola 👋, soy Laura 💖</h1>
-<h3>Apasionada por la tecnología, la robótica y el desarrollo de software</h3>
-
-<div class="center">
-  <img src="https://media.giphy.com/media/UqZqFu1qFJgk8/giphy.gif" width="300" alt="Giphy animado" />
+<div align="center">
+  <img src="https://media.giphy.com/media/UqZqFu1qFJgk8/giphy.gif" width="300px" />
 </div>
 
-<hr />
+---
 
-<h3>💻 Tecnologías y Lenguajes que uso</h3>
-<div class="center">
+### 💻 Tecnologías y Lenguajes que uso
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</div>
+</p>
 
-<hr />
+---
 
-<h3>🌸 Un poco sobre mí</h3>
-<ul>
-  <li>🎓 Estudiante de ingeniería de telecomunicaciones, amante de la programación y la electrónica.</li>
-  <li>🤖 Actualmente trabajando con el robot <b>Pepper</b> y proyectos de <b>redes híbridas con QEMU y Docker</b>.</li>
-  <li>📚 Aprendiendo más sobre <b>procesamiento digital de señales</b>, <b>sistemas operativos</b> y <b>medios de transmision</b>.</li>
-  <li>🌱 Explorando nuevas tecnologías como <b>IoT, Grafana, Zabbix y redes GPON</b>.</li>
-  <li>💻 Me encanta usar <b>Linux</b> para mis desarrollos y trabajar en la consola con <b>Nano</b> 💕</li>
-</ul>
+### 🌸 Un poco sobre mí
 
-<hr />
+- 🎓 Estudiante de ingeniería de telecomunicaciones, amante de la programación y la electrónica.
+- 🤖 Actualmente trabajando con el robot **Pepper** y proyectos de **redes híbridas con QEMU y Docker**.
+- 📚 Aprendiendo más sobre **procesamiento digital de señales**, **sistemas operativos**, y **medios de transmision**.
+- 🌱 Explorando nuevas tecnologías como **IoT, Grafana, Zabbix y redes GPON**.
+- 💻 Me encanta usar **Linux** para mis desarrollos y trabajar en la consola con **Nano** 💕
 
-<h3>💌 Conectemos</h3>
-<div class="center">
-  <a href="mailto:laurab5604@example.com"><img src="https://img.shields.io/badge/email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://github.com/laurab5604"><img src="https://img.shields.io/badge/GitHub-daa6d4?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-</div>
+---
 
-<hr />
+### 💌 Conectemos
 
-<h3 class="center">🧠 Stats y actividad</h3>
-<div class="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laurab5604&show_icons=true&theme=pink" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurab5604&layout=compact&theme=pink" height="165" alt="top langs"/>
-</div>
-<div class="center" style="margin-top:15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurab5604&theme=pink" height="150" alt="streak"/>
-</div>
+<p align="center">
+  <a href="mailto:laurab5604@example.com"><img src="https://img.shields.io/badge/email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/laurab5604"><img src="https://img.shields.io/badge/GitHub-daa6d4?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<hr />
+---
 
-<h2 class="center">🎮 Juego: Adivina el Número</h2>
-<p class="center">¡Intenta adivinar el número entre 1 y 20! Tienes 5 intentos.</p>
+### 🧠 Stats y actividad
 
-<div class="center" style="margin-bottom: 10px;">
-  <input type="number" id="guessInput" placeholder="Escribe un número" />
-  <button onclick="checkGuess()">Probar</button>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laurab5604&show_icons=true&theme=pink" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurab5604&layout=compact&theme=pink" height="165px"/>
+</p>
 
-<p class="center" id="resultMessage" style="font-weight: bold;"></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurab5604&theme=pink" height="150px"/>
+</p>
 
-<script>
-  let numeroSecreto = Math.floor(Math.random() * 20) + 1;
-  let intentos = 5;
+---
 
-  function checkGuess() {
-    let guess = parseInt(document.getElementById('guessInput').value);
-    let resultMessage = document.getElementById('resultMessage');
+🌷 *Gracias por visitar mi perfil, ¡sigue tus sueños y nunca dejes de aprender!* 💫
 
-    if (!guess || guess < 1 || guess > 20) {
-      resultMessage.textContent = "Por favor, ingresa un número entre 1 y 20.";
-      return;
-    }
+---
 
-    intentos--;
+## 🎮 Juego didáctico: Elige tu aventura tecnológica
 
-    if (guess === numeroSecreto) {
-      resultMessage.textContent = `🎉 ¡Felicidades! Adivinaste el número secreto (${numeroSecreto}).`;
-      resetGame();
-    } else if (intentos > 0) {
-      resultMessage.textContent = `❌ Incorrecto. Te quedan ${intentos} intento(s). Intenta un número ${guess < numeroSecreto ? "mayor" : "menor"}.`;
-    } else {
-      resultMessage.textContent = `😢 Se acabaron los intentos. El número era ${numeroSecreto}. ¡Intenta de nuevo!`;
-      resetGame();
-    }
-  }
+**¿Quieres jugar? Elige una opción para comenzar:**
 
-  function resetGame() {
-    numeroSecreto = Math.floor(Math.random() * 20) + 1;
-    intentos = 5;
-    document.getElementById('guessInput').value = "";
-  }
-</script>
+- [Aprender sobre Robótica 🤖](#robótica-🤖)
+- [Explorar Redes y Sistemas 🖧](#redes-y-sistemas-🖧)
+- [Descubrir Lenguajes de Programación 💻](#lenguajes-de-programación-💻)
 
-<footer style="text-align:center; margin-top:30px;">
-  🌷 <em>Gracias por visitar mi perfil, ¡sigue tus sueños y nunca dejes de aprender! 💫</em>
-</footer>
+---
 
-</body>
-</html>
+### Robótica 🤖
+
+¡Genial! La robótica combina hardware y software.
+
+¿Qué te gustaría hacer?
+
+- [Programar un robot](#programar-un-robot)  
+- [Investigar sensores](#investigar-sensores)
+
+---
+
+### Programar un robot
+
+¡Perfecto! Puedes usar Python o C++ para controlar robots.
+
+- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
+
+---
+
+### Investigar sensores
+
+Los sensores capturan información del entorno. ¡Son esenciales para la robótica!
+
+- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
+
+---
+
+### Redes y Sistemas 🖧
+
+Redes permiten que dispositivos se comuniquen.
+
+¿Qué tema quieres explorar?
+
+- [Configurar una red híbrida](#configurar-una-red-híbrida)  
+- [Monitoreo con Grafana y Zabbix](#monitoreo)
+
+---
+
+### Configurar una red híbrida
+
+Puedes usar QEMU y Docker para crear entornos de prueba.
+
+- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
+
+---
+
+### Monitoreo
+
+Grafana y Zabbix son excelentes para monitorear redes y sistemas.
+
+- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
+
+---
+
+### Lenguajes de Programación 💻
+
+¿Quieres saber más sobre?
+
+- [Java](#java)  
+- [Python](#python)  
+- [C++](#c++)
+
+---
+
+### Java
+
+Java es muy usado en aplicaciones grandes y Android.
+
+- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
+
+---
+
+### Python
+
+Python es fácil de aprender y tiene muchas librerías.
+
+- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
+
+---
+
+### C++
+
+C++ es poderoso para sistemas embebidos y alto rendimiento.
+
+- [Volver al inicio](#🎮-juego-didáctico-elige-tu-aventura-tecnológica)
