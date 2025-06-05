@@ -24,9 +24,36 @@
 
 - 🎓 Estudiante de ingeniería de telecomunicaciones, amante de la programación y la electrónica.
 - 🤖 Actualmente trabajando con el robot **Pepper** y proyectos de **redes híbridas con QEMU y Docker**.
-- 📚 Aprendiendo más sobre **procesamiento digital de señales**, **sistemas operativos**, y **medios de transmision**.
+- 📚 Aprendiendo más sobre **procesamiento digital de señales**, **sistemas operativos**, y **medios de transmisión**.
 - 🌱 Explorando nuevas tecnologías como **IoT, Grafana, Zabbix y redes GPON**.
 - 💻 Me encanta usar **Linux** para mis desarrollos y trabajar en la consola con **Nano** 💕
+
+---
+
+### 🚀 Proyectos destacados
+
+- [Coreografía sencilla con Pepper Robot](https://github.com/laurab5604/pepper-coreografia)  
+  Creación y programación de movimientos para el robot Pepper usando Choregraphe y Python.
+  
+- [Entorno híbrido de pruebas QEMU + Docker](https://github.com/laurab5604/qemu-docker-hybrid)  
+  Diseño e implementación de una red virtual con máquinas virtuales y contenedores para simulación y monitoreo.
+
+---
+
+### 🛠️ Herramientas y Software favoritos
+
+- VS Code, PyCharm  
+- Git, GitHub  
+- MATLAB, Simulink  
+- Choregraphe para Pepper Robot  
+- Docker, QEMU  
+- Terminal Linux y Nano
+
+---
+
+### 💡 Frase que me inspira
+
+> *“La tecnología no es sólo lo que hacemos, sino lo que soñamos hacer.”* – Anónimo
 
 ---
 
@@ -55,37 +82,3 @@
 
 🌷 *Gracias por visitar mi perfil, ¡sigue tus sueños y nunca dejes de aprender!* 💫
 
----
-
-## 🐍 Juego de la Culebrita - Lenguajes de programación
-
-¡La culebrita quiere atrapar los lenguajes que usas!  
-Cada 🐍 es parte de la culebra, y debe pasar por todos los lenguajes sin chocar.
-
-| 🐍 | 🟩 | 🟩 | 🟩 | 🟩 |  
-|---|---|---|---|---|  
-| 🟩 | 🟩 | ☕ Java | 🟩 |  
-| 🟩 | 🐍 | 🐍 | 🐍 | 🟩 |  
-| 🟩 | 🟩 | 🐍 | 🐍 | 🐍 |  
-| 🐍 Python | 🐍 | C++ | 🟩 | STM32 |
-
----
-
-### ¿Cómo jugar?
-
-Imagina que la culebra 🐍 empieza en Python y se mueve para "comer" todos los lenguajes que hay en la tabla. La culebra va creciendo cada vez que pasa por un lenguaje.
-
-¡Sigue el recorrido y conoce tus tecnologías favoritas!
-
----
-
-### Tecnologías en el juego:
-
-- 🐍 Python  
-- ☕ Java  
-- 🐍 C++  
-- STM32  
-
----
-
-**¡Diviértete programando y aprendiendo!** 🐍💻
