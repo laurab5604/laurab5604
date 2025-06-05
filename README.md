@@ -31,11 +31,8 @@
 ---
 
 ### 🚀 Proyectos destacados
-
-- [Coreografía sencilla con Pepper Robot](https://github.com/laurab5604/pepper-coreografia)  
-  Creación y programación de movimientos para el robot Pepper usando Choregraphe y Python.
   
-- [Entorno híbrido de pruebas QEMU + Docker](https://github.com/laurab5604/qemu-docker-hybrid)  
+- [Juego de Nave espacial]([https://github.com/laurab5604/qemu-docker-hybrid](https://github.com/laurab5604/Nave_espacial))  
   Diseño e implementación de una red virtual con máquinas virtuales y contenedores para simulación y monitoreo.
 
 ---
