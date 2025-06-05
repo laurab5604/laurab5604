@@ -33,7 +33,8 @@
 ### 🚀 Proyectos destacados
   
 - [Juego de Nave espacial](https://github.com/laurab5604/Nave_espacial)  
-  Diseño e implementación de una red virtual con máquinas virtuales y contenedores para simulación y monitoreo.
+SpaceMax Defender es un juego clásico tipo Space Invaders hecho en Python con Pygame. Controla una nave espacial,
+dispara enemigos y evita perder todas tus vidas. ¡Diviértete defendiendo el espacio!
   
 ---
 
